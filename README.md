@@ -4,7 +4,8 @@ You want to participate and propose an idea for an application.
 
 <img src="img.png">
 
-The Open Food Facts dataset is available on the official website https://world.openfoodfacts.org/. The variables are defined at this address:https://world.openfoodfacts.org/data/data-fields.txt
+The Open Food Facts dataset is available on the official website https://world.openfoodfacts.org/. The variables are defined at 
+this address: https://world.openfoodfacts.org/data/data-fields.txt
 
 The fields are separated into four sections:
 
